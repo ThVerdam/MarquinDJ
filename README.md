@@ -7,7 +7,7 @@ MarquinDJ é o meu bot do discord desenvolvido com Node.JS afim de aprender mais
 Você vai precisar do node instalado na sua máquina.
 
 ```
-Para instalar, basta entrar no site do [NodeJS](https://nodejs.org/en/)
+Para instalar, basta entrar no site do NodeJS: https://nodejs.org/en/
 ```
 
 ### Instalando
